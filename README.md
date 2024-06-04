@@ -1,4 +1,4 @@
-# React + TypeScript + Vite + EVM
+# React + TypeScript + Vite + Solidity
 
 EVM이랑 리액트를 진짜로 연결할것입니다.
 
